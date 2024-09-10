@@ -14,6 +14,8 @@ Meu repositório criado para o projeto Dio Configurando uma Instância de Banco 
 
 3 - __Criar um novo Banco de Dados:__ Na página de SQL Databases, clique em “Criar” e depois em “Banco de Dados SQL do Azure”.
 
+![AzureDb01](https://github.com/user-attachments/assets/7268710d-153e-48fd-b9e1-360aff724d44)
+
 ### Passo 3: Configurar o Banco de Dados
 
 4 - __Configurações Básicas:__
@@ -22,6 +24,8 @@ Meu repositório criado para o projeto Dio Configurando uma Instância de Banco 
    - **Nome do Banco de Dados:** Dê um nome ao seu banco de dados.
    - **Servidor:** Crie um novo servidor ou selecione um servidor existente. Para criar um novo servidor, forneça um nome de servidor, um nome de administrador e uma senha.
    - **Localização:** Selecione a localização do servidor.
+   - 
+![image](https://github.com/user-attachments/assets/400d0db1-21c9-4818-a639-98ece511eeae)
 
 5 - __Configurações de Elastic Pool (opcional):__
    - **Elastic Pool:** Se você deseja usar um pool elástico, selecione “Sim” e configure o pool. Caso contrário, selecione “Não”.
@@ -29,6 +33,8 @@ Meu repositório criado para o projeto Dio Configurando uma Instância de Banco 
 6 - __Configurações de Computação e Armazenamento:__
    - **Nível de Serviço:** Escolha entre as opções disponíveis (por exemplo, Básico, Standard, Premium) com base nas suas necessidades de desempenho e custo.
    - **Tamanho do Computador:** Selecione o tamanho do computador e a quantidade de armazenamento.
+
+![image](https://github.com/user-attachments/assets/ff29511e-933a-4da1-8729-5ee89594f8f5)
 
 ### Passo 4: Configurações Adicionais
 
