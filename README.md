@@ -6,7 +6,7 @@ Meu repositório criado para o projeto Dio Configurando uma Instância de Banco 
 
 ## Passo a Passo para Configurar uma Instância de Banco de Dados no Azure
 
-### Passo 1: Acessar o Portal do Azure
+### Passo 1: Acessar o Portal do Azure 
 1 - **Acesse o portal do Azure:** Vá para portal.azure.com e faça login com sua conta Microsoft.
 
 ### Passo 2: Criar um Banco de Dados SQL
